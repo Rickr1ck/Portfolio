@@ -1,6 +1,6 @@
 Raymond Rick B. Ching — Personal Portfolio
 A responsive, accessible personal portfolio showcasing IT certifications, software projects, and interdisciplinary academic research. The site is built with plain HTML, CSS, and JavaScript, so it can be published on GitHub Pages without a build step.
-Live website: https://rickr1ck.github.io/portfolio/
+Live website: https://rickr1ck.github.io/Portfolio/
 GitHub profile: https://github.com/Rickr1ck
 The live URL will work after GitHub Pages has been enabled and deployment has completed. If your repository uses a different name, update the URL above accordingly.
 
